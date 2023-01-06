@@ -22,14 +22,6 @@ function NavTabs({ handleTabChange }) {
       </h1>
       <h1 className="m-0">
         <a
-          href="#contact"
-          onClick={() => handleTabChange('Contact')}
-        >
-          Contact
-        </a>
-      </h1>
-      <h1 className="m-0">
-        <a
           href="#resume"
           onClick={() => handleTabChange('Resume')}
         >

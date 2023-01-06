@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import NavTabs from './NavTabs';
 import AboutMe from './AboutMe';
 import Portfolio from './Portfolio';
-import Contact from './Contact';
 import Resume from './Resume';
 
 // Render Header
@@ -16,9 +15,6 @@ const Header = () => {
     }
     if (currentTab === 'Portfolio') {
       return <Portfolio />;
-    }
-    if (currentTab === 'Contact') {
-      return <Contact />;
     }
     return <Resume />;
   };
