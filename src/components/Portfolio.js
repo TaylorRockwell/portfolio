@@ -1,4 +1,5 @@
 import Project from './Project';
+import React from 'react';
 
 // Render Portfolio
 const Portfolio = () => {

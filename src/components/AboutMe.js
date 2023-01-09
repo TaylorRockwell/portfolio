@@ -1,4 +1,5 @@
 import Avatar from '../docs/Avatar.png';
+import React from 'react';
 
 // Renders About me Tab
 

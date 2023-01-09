@@ -1,4 +1,5 @@
 import MyResume from '../docs/Resume.pdf';
+import React from 'react';
 
 // Render resume
 const Resume = () => {

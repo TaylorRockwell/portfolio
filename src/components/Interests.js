@@ -3,9 +3,10 @@ import WhiffRates from '../docs/WhiffRates.pdf';
 import Reggae from '../docs/Reggae.mp3'
 import EDM from '../docs/EDM.mp3'
 import SocialMediaAd from '../docs/SocialMediaAd.mp3'
-import HipHop from '../docs/HipHop.mp3'
-import Indie from '../docs/Indie.mp3'
+import HipHop from '../docs/Hiphop.mp3'
+import Indie from '../docs/Indie.mp3' 
 import Soundtrack from '../docs/Soundtrack.mp3'
+import React from 'react';
 
 // Renders Interests Tab
 
