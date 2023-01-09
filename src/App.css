@@ -1104,6 +1104,7 @@ a:hover {
   padding: 0.375rem;
   background-color: #2d3e50;
   color: #d9e9e8;
+  text-align: center;
 }
 
 .card .card-body {
@@ -1341,6 +1342,11 @@ label form [type='radio'] {
 .col-12 {
   flex: 0 0 100%;
   max-width: 100%;
+}
+
+/* Add Padding to Foster Image in Interests */
+#Foster {
+  padding: 139px 139px;
 }
 
 /* col-sm */

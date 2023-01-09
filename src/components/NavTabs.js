@@ -14,6 +14,14 @@ function NavTabs({ handleTabChange }) {
       </h1>
       <h1 className="m-0">
         <a
+          href="#Interests"
+          onClick={() => handleTabChange('Interests')}
+        >
+          Interests
+        </a>
+      </h1>
+      <h1 className="m-0">
+        <a
           href="#portfolio"
           onClick={() => handleTabChange('Portfolio')}
         >
